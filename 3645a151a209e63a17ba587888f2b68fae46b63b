@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "55b79399_5f74c37c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 20370
+      },
+      "writtenOn": "2021-12-08T16:26:52Z",
+      "side": 1,
+      "message": "Cannot checkout LineageOS/android_external_tremolo: None: remote github does not have refs/heads/lineage-18.1\n",
+      "revId": "3645a151a209e63a17ba587888f2b68fae46b63b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
