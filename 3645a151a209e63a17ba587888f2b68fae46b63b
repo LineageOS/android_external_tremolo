@@ -16,6 +16,24 @@
       "message": "Cannot checkout LineageOS/android_external_tremolo: None: remote github does not have refs/heads/lineage-18.1\n",
       "revId": "3645a151a209e63a17ba587888f2b68fae46b63b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "20279b0b_5033c6ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2021-12-08T16:32:12Z",
+      "side": 1,
+      "message": "Pretty basic if you are going to be testing things on gerriy... you need to pick the manifest update to .repo/manifests and then force sync external/tremolo",
+      "parentUuid": "55b79399_5f74c37c",
+      "revId": "3645a151a209e63a17ba587888f2b68fae46b63b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
