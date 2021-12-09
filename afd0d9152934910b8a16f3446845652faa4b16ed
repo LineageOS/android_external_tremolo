@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bcb3e4fc_2023cd3f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24080
+      },
+      "writtenOn": "2021-12-09T13:19:31Z",
+      "side": 1,
+      "message": "Topic n-asb-2021-12 builds OK for hammerhead and suzuran",
+      "revId": "afd0d9152934910b8a16f3446845652faa4b16ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
