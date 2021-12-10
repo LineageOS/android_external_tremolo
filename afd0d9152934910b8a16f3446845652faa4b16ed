@@ -16,6 +16,23 @@
       "message": "Topic n-asb-2021-12 builds OK for hammerhead and suzuran",
       "revId": "afd0d9152934910b8a16f3446845652faa4b16ed",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71faf787_060b3ca6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25691
+      },
+      "writtenOn": "2021-12-10T03:30:46Z",
+      "side": 1,
+      "message": "The same goes for Moto G5 Cedric. Builds okay and runs. Bluetooth still works, too. THANK YOU!",
+      "revId": "afd0d9152934910b8a16f3446845652faa4b16ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
