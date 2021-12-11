@@ -33,6 +33,23 @@
       "message": "The same goes for Moto G5 Cedric. Builds okay and runs. Bluetooth still works, too. THANK YOU!",
       "revId": "afd0d9152934910b8a16f3446845652faa4b16ed",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "502f6b52_65cb48a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23518
+      },
+      "writtenOn": "2021-12-11T13:46:44Z",
+      "side": 1,
+      "message": "All good on Moto G LTE - Thank you for your continuing support.",
+      "revId": "afd0d9152934910b8a16f3446845652faa4b16ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
