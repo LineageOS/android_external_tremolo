@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21c73bd0_e7dba1e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24080
+      },
+      "writtenOn": "2021-12-19T08:47:37Z",
+      "side": 1,
+      "message": "Topic O_asb_2021-12 builds OK for hammerhead and yuga",
+      "revId": "a0148f5c3d15f51b61c3fd78253121a243b02f4b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
