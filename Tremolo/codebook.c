@@ -649,12 +649,8 @@ int vorbis_book_unpack(oggpack_buffer *opb,codebook *s){
   return -1;
 }
 
-#ifndef ONLY_C
-ogg_uint32_t decode_packed_entry_number(codebook *book,
-                                        oggpack_buffer *b);
-#else
-static inline ogg_uint32_t decode_packed_entry_number(codebook *book,
-                                                      oggpack_buffer *b){
+// dropped the hand-crafted arm32 asm version for security reasons
+ogg_uint32_t decode_packed_entry_number(codebook *book, oggpack_buffer *b){
   ogg_uint32_t chase=0;
   int  read=book->dec_maxlength;
   long lok = oggpack_look(b,read),i;
@@ -751,7 +747,6 @@ static inline ogg_uint32_t decode_packed_entry_number(codebook *book,
   oggpack_adv(b,read+1);
   return(-1);
 }
-#endif
 
 /* returns the [original, not compacted] entry number or -1 on eof *********/
 long vorbis_book_decode(codebook *book, oggpack_buffer *b){
